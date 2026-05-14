@@ -823,7 +823,7 @@ function EvidenceSection({
 function Footer() {
   return (
     <footer className="site-footer">
-      <span>AI训练师作品集 / 第一版</span>
+      <span>方友余的个人网站 / 第一版</span>
       <a href="#/">回到首页</a>
     </footer>
   );
